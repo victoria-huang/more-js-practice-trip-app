@@ -1,0 +1,14 @@
+main {
+  display: grid;
+  grid-template-columns: 2fr 4fr 8fr;
+}
+
+#users-list {
+  border-right: 3px solid black;
+  margin-right: 20px;
+}
+
+p, li {
+  /* padding-bottom: 3px; */
+  font-size: 1.2rem;
+}
